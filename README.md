@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Min HO Jun
 
 <!--
 **Hojun0623/Hojun0623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
